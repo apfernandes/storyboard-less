@@ -13,9 +13,8 @@ This guide has been updated to Xcode Version 14.2.
 
 - Create a new iOS APP Project
 
-<img alt="Create a new Project" src="Image-Assets/delete-main-storyboard.jpg">
+<img alt="Create a new Project" src="Image-Assets/new-project.jpg" width="100">
 
-![Create a new iOS Projet](Image-Assets/new-project.jpg)
 ![Create a new iOS Projet](Image-Assets/new-project.jpg)
 
 ![Create a new iOS Projet Step 2](Image-Assets/new-project-step-2.jpg)
