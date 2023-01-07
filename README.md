@@ -11,5 +11,10 @@ Do not follow these steps on and exiting Xcode project, use them only when creat
 
 This guide has been updated to Xcode Version 14.2.
 
+- Create an uIOS APP Project
 
+
+- Delete Main.storyboard file
+
+- 
 
