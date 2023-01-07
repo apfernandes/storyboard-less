@@ -3,13 +3,13 @@ Creating an Xcode project without a storyboard
 
 I never liked to use Xcode Interface Builder. It is a great tool for learning and I am sure a lot of developers find it an excellent tool to build their APPS. 
 
-This is just my personal choice. I like to (think) I control, as much as possible, what my code is doing (the reality is has many points of view).
+This is just my personal choice. I like to believe that I control, as much as possible, what my code is doing (the reality has many different points of view).
 
-Not following Apple path of using Storyboards might have some undesired consequences. However, not even one of the APPS that I have put on the APP store has used Storyboards (and I did work on some complex ones), so this not a hard limitation.
+Not following Apple path of using Storyboards might have some undesired consequences. However, not even one of the APPS that I have put on the APP store has used Storyboards (and I did work on some complex ones), so this is not a hard limitation.
 
-Do not follow these steps on and exiting Xcode project, use them only when creating a blank project from scratch.
+Do not follow these steps on an existing Xcode project. Use them only when creating a blank project from scratch.
 
-This guide has been updated to Xcode Version 14.2.
+This guide was updated to Xcode Version 14.2.
 
 - Create a new iOS APP Project
 
@@ -29,11 +29,11 @@ This guide has been updated to Xcode Version 14.2.
 
 <img alt="Delete Storyboard name from target" src="Image-Assets/delete-story-board-name-from-target.jpg" width="1100">
 
-We should be ready and free to start our little APP our own way.
+We should be ready and free to start our little APP how we desire.
 
 First let's just have the ViewController do something so that we know that we were successful
 
-We will just change the background color by editing ViewController.swift
+We will change the background color by editing ViewController.swift
 
 ```
     override func viewDidLoad() {
