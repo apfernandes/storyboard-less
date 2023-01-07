@@ -13,6 +13,7 @@ This guide has been updated to Xcode Version 14.2.
 
 - Create an uIOS APP Project
 
+![Create no iOS Projet](Image-Assets/new-project.jpg)
 
 - Delete Main.storyboard file
 
