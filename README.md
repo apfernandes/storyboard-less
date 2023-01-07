@@ -13,15 +13,15 @@ This guide has been updated to Xcode Version 14.2.
 
 - Create a new iOS APP Project
 
-<img alt="Create a new Project" src="Image-Assets/new-project.jpg" width="500">
+<img alt="Create a new Project" src="Image-Assets/new-project.jpg" width="729">
 
-![Create a new iOS Projet](Image-Assets/new-project.jpg)
+<img alt="Create a new iOS Projet Step 2" src="Image-Assets/new-project-step-2.jpg" width="729">
 
 ![Create a new iOS Projet Step 2](Image-Assets/new-project-step-2.jpg)
 
 - Delete Main.storyboard file
 
-![Delete Main Storyboard](Image-Assets/delete-main-storyboard.jpg)
+<img alt="Delete Main Storyboard" src="Image-Assets/delete-main-storyboard.jpg" width="729">
 
 - Delete Storyboard name from Info.plist
 
