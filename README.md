@@ -11,11 +11,20 @@ Do not follow these steps on and exiting Xcode project, use them only when creat
 
 This guide has been updated to Xcode Version 14.2.
 
-- Create an uIOS APP Project
+- Create a new iOS APP Project
 
-![Create no iOS Projet](Image-Assets/new-project.jpg)
+![Create a new iOS Projet](Image-Assets/new-project.jpg)
+
+![Create a new iOS Projet Step 2](Image-Assets/new-project-step-2.jpg)
 
 - Delete Main.storyboard file
 
-- 
+![Delete Main Storyboard](Image-Assets/delete-main-storyboard.jpg)
 
+- Delete Storyboard name from Info.plist
+
+![Delete Storyboard name from Info.plist](Image-Assets/delete-story-board-name.jpg)
+
+- Delete Storyboard name from Target -> Info
+
+![Delete Storyboard name from target](Image-Assets/delete-story-board-name-from-target.jpg)
