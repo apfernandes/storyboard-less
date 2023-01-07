@@ -17,8 +17,6 @@ This guide has been updated to Xcode Version 14.2.
 
 <img alt="Create a new iOS Projet Step 2" src="Image-Assets/new-project-step-2.jpg" width="729">
 
-![Create a new iOS Projet Step 2](Image-Assets/new-project-step-2.jpg)
-
 - Delete Main.storyboard file
 
 <img alt="Delete Main Storyboard" src="Image-Assets/delete-main-storyboard.jpg" width="500">
