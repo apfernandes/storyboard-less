@@ -19,7 +19,7 @@ This guide has been updated to Xcode Version 14.2.
 
 - Delete Main.storyboard file
 
-<img alt="Delete Main Storyboard" src="Image-Assets/delete-main-storyboard.jpg" width="500">
+<img alt="Delete Main Storyboard" src="Image-Assets/delete-main-storyboard.jpg" width="300">
 
 - Delete Storyboard name from Info.plist
 
@@ -66,7 +66,5 @@ We do this by modifying the SceneDelegate file
 We can now run our APP and view the Yellow color of success:
 
 <img alt="iPhone image with full screen in yellow" src="Image-Assets/success.jpg" width="300">
-
-![Success](Image-Assets/success.jpg)
 
 Free as a bird!
