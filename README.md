@@ -28,3 +28,41 @@ This guide has been updated to Xcode Version 14.2.
 - Delete Storyboard name from Target -> Info
 
 ![Delete Storyboard name from target](Image-Assets/delete-story-board-name-from-target.jpg)
+
+We should be ready and free to start our little APP our own way.
+
+First let's just have the ViewController do something so that we know that we were successful
+
+We will just change the background color by editing ViewController.swift
+
+```
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+        
+        view.backgroundColor = UIColor.yellow
+    }
+```
+
+Next we need to create and show our ViewController.
+
+We do this by modifying the SceneDelegate file
+
+```
+    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
+        // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
+        // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
+        // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+        
+        guard let windowScene = (scene as? UIWindowScene) else { return }
+              
+        window = UIWindow(windowScene: windowScene)
+        window?.rootViewController = ViewController() // Your initial view controller.
+        window?.makeKeyAndVisible()
+
+    }
+```
+
+We can now run our APP and view the Yellow color of success:
+
+![Success](Image-Assets/success.jpg)
