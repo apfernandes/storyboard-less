@@ -1,5 +1,5 @@
-# storyboard-less
-Creating an Xcode project without a storyboard
+# storyboard-less - iOS
+Creating an Xcode project for iOS without a storyboard
 
 I never liked to use Xcode Interface Builder. It is a great tool for learning and I am sure a lot of developers find it an excellent tool to build their APPS. 
 
